@@ -20,6 +20,10 @@
                     <li>Contact</li>
                 </ul>
             </nav>
+            <div class="hamburger">
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
         </div>
         <div class="header-border"></div>
 </header>
